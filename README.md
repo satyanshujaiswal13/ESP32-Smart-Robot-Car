@@ -1,5 +1,7 @@
 # ESP32 Smart Multi-Functional Robot Car
-
+<p align="center">
+  <img src="Images/image.png" width="500">
+</p>
 ## Overview
 
 This project is an ESP32-based smart robot car capable of wireless Bluetooth control using a smartphone. It integrates multiple hardware modules to provide real-time monitoring, obstacle detection, and user interaction.
