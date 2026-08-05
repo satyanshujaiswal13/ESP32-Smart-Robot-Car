@@ -1,6 +1,6 @@
 # ESP32 Smart Multi-Functional Robot Car
 <p align="center">
-  <img src="Images/image.png" width="500">
+  <img src="Images/robot.png" width="600">
 </p>
 ## Overview
 
